@@ -8,6 +8,12 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+this is the intro section
+
 ## How to contribute
 
+daily for years to follow
+
 ## Deployment
+
+deploy on any websever or locally, even
