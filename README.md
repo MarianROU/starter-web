@@ -13,6 +13,7 @@ this is the intro section
 ## How to contribute
 
 daily for years to follow
+please fork this repository
 
 ## Deployment
 
