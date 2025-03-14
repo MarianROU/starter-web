@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Marian Petre      marian.petre@gmail.com 	Mance Pax
 
 # THANKS
 
