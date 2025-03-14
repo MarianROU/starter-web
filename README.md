@@ -17,3 +17,7 @@ daily for years to follow
 ## Deployment
 
 deploy on any websever or locally, even
+
+## Copyright
+
+This is the Copyright Notice
