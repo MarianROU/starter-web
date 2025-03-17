@@ -24,3 +24,4 @@ deploy on any websever or locally, even
 ## Copyright
 
 This is the Copyright Notice
+All rights reservers
